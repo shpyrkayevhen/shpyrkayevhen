@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yevhen Shpyrka</h1>
-<h3 align="center">Backend && Frontend Developer from Ukraine</h3>
+<h3 align="center">Software Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shpyrkayevhen&label=Profile%20views&color=0e75b6&style=flat" alt="shpyrkayevhen" /> </p>
 
